@@ -1,0 +1,161 @@
+﻿<ion-modal-view>
+    <ion-side-menus>
+
+        <ion-side-menu-content ng-controller="MesAddCtrl">
+
+
+            <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+                <button class="button button-clear " ng-click="closeMesAddPage()"><i class="icon ion-ios-arrow-left"></i></button>
+                <h1 class="title">报工登记</h1>
+                <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+            </ion-header-bar>
+            <div class="bar bar-subheader lr-subheader">
+                <div class="row">
+                    <div class="col-99 center"><button class="button button-positive" ng-click="openSearch()">报工</button></div>
+                </div>
+            </div>
+
+
+            <ion-content class="has-subheader has-footer">
+                <ion-list class="list  list-inset   lr-list-type2  " style="margin:0px;padding:0px">
+
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">条码：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_mprNum" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+
+                        <div class="col-20 lr-item-content text-right"><span class="row-bottom">职工：</span></div>
+                        <div class="col-40 lr-item-content  text-left"><input type="text" ng-model="editData.mpr_empNum" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></div>
+                        <div class="col-25 lr-item-content  text-left"><input type="text" ng-model="editData.mpr_empName" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></div>
+                        <div class="col-15 lr-item-content text-center"><i class="icon ion-edit">&#xe616;</i></div>
+
+                    </div>
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+
+                        <div class="col-20 lr-item-content text-right"><span class="row-bottom">工序：</span></div>
+                        <div class="col-40 lr-item-content  text-left"><input type="text" ng-model="editData.mpr_procedureID" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></div>
+                        <div class="col-25 lr-item-content  text-left"><input type="text" ng-model="editData.mpr_procedureName" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></div>
+                        <div class="col-15 lr-item-content text-center"><i class="icon ion-edit">&#xe616;</i></div>
+
+                    </div>
+
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+
+                        <div class="col-20 lr-item-content text-right"><span class="row-bottom">机台：</span></div>
+                        <div class="col-40 lr-item-content  text-left"><input type="text" ng-model="editData.mpr_fcltNum" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></div>
+                        <div class="col-25 lr-item-content  text-left"><input type="text" ng-model="editData.mpr_fcltName" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></div>
+                        <div class="col-15 lr-item-content text-center"><i class="icon ion-edit" ng-click="openBgFcltSearch()">&#xe616;</i></div>
+                    </div>
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">批次：</span> </div>
+                        <div class="col-40 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_batch" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                        <div class="col-40 lr-item-content text-center"><i class="icon ion-edit" ng-click="openBgBatchSearch()">&#xe616;</i></div>
+                    </div>
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">颜色：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_color" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">品号：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_pinhao" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">班组：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_group" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">属性码：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_attr" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">数量：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_count" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">备注：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_remarks" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">盘头：</span> </div>
+                        <div class="col-40 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_panNo" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                        <div class="col-40 lr-item-content text-center"><i class="icon ion-edit" ng-click="openBgConPanHeadSearch()">&#xe616;</i></div>
+
+                    </div>
+
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">绞数：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_hankCount" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%;">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">匹次：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_horseNo" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">遍数：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editData.mpr_timeCount" style="border:1px solid #EAEAEA;width:100%" /></span> </div>
+                    </div>
+                    <div class="row row-bottom row-no-padding" style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">货位：</span> </div>
+                        <div class="col-20 lr-item-content  text-left"><input type="text" ng-model="editData.mpr_location" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></div>
+                        <div class="col-45 lr-item-content  text-left"><input type="text" ng-model="editData.mpr_locationName" disabled="disabled" style="border:1px solid #EAEAEA;width:100%" /></div>
+                        <div class="col-15 lr-item-content text-center"><i class="icon ion-edit" ng-click="openBgConPanPositionSearch()">&#xe616;</i></div>
+                    </div>
+
+
+
+                </ion-list>
+                <div class="row">
+                    <div class="col-99 center">
+                        <button class="button button-positive  button-small " style="font-size:small;" ng-click="openMesPbpcList()">选 &nbsp; 择</button>
+                    </div>
+                </div>
+                <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+
+                    <div class="row row-bottom row-no-padding" style="border:1px solid #EAEAEA;padding-bottom:1%" ng-repeat="sample in pbpcPops">
+
+                        <div class="col-20  lr-item-content text-right "> 坯布匹次:</div><div class="col-80  lr-item-content text-left"> {{sample.pbpc }}</div>
+                    </div>
+
+                </div>
+
+            </ion-content>
+            <div class="bar bar-footer">
+                <div class="button-bar">
+                    <i class="button">
+                        <button class="button button-positive" ng-click="openMesBgList()">报工记录</button>
+                    </i>
+                    <i class="button"><button class="button button-positive" ng-click="openZjModal()">质检记录</button></i>
+                    <i class="button"><button class="button button-positive" ng-click="openSalaryModal()">合格工资</button></i>
+                    <i class="button"><button class="button button-positive" ng-click="openMesTestModal()">把关</button></i>
+                </div>
+
+            </div>
+        </ion-side-menu-content>
+        <ion-side-menu side="right">
+            <header class="bar bar-header bar-stable">
+                <h1 class="title">Right</h1>
+            </header>
+            <ion-content class="has-header">
+                <ion-list>
+                    <ion-item nav-clear menu-close ng-click="openMesBgList()">报工记录</ion-item>
+                    <ion-item nav-clear menu-close ng-click="openZjModal()">质检记录</ion-item>
+                    <ion-item nav-clear menu-close ng-click="openBgLastModal()">上班组报工记录</ion-item>
+                </ion-list>
+            </ion-content>
+        </ion-side-menu>
+
+
+    </ion-side-menus>
+</ion-modal-view>

@@ -1,0 +1,25 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <div class="row">
+            <div class="col-50 center"><button class="button button-positive" ng-click="createPbpc()">确认</button></div>
+            <div class="col-50 center"><button class="button button-positive" ng-click="closeMesPbpcListModal()">取消</button></div>
+        </div>
+    </ion-header-bar>
+    <ion-content>
+        <div class="list  list-inset    lr-list-type2" style="margin-top:0px;">
+            
+                <ion-radio ng-repeat="sample in pbpcPops" ng-value="sample.pbpc" ng-model="dataPbpc.pbpc"
+                     ng-change="setSelectedPbpc(sample)"       class="item-icon-right">
+
+                    <div class="row">
+                        <div class="col-99 lr-item-content"><span>坯布匹次：{{sample.pbpc}}</span> </div>
+                    </div>
+                   
+                </ion-radio>
+                
+           
+        </div>
+        <ion-infinite-scroll ng-if="searchData.moredata" on-infinite="loadMoreSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+
+</ion-modal-view>

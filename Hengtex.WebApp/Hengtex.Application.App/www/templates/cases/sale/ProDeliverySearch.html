@@ -1,0 +1,61 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <div class="item-input-inset" style="width:100%;">
+            
+            <div class="row">
+                <div class="col-33 lr-item-content" style="border-right:1px solid black">
+                    <label class="item-input-wrapper" ng-click="openSourceSelectModal()">
+                        <input type="search" ng-model="searchData.condation" placeholder="请选择" >
+                    </label>
+                </div>
+                <div class="col-33 lr-item-content">
+                    
+                    <label class="item-input-wrapper"> 
+                        <i class="icon ion-ios-search placeholder-icon"></i>                       
+                        <input type="search" ng-model="searchData.keyword" placeholder="搜索">
+                    </label>
+                   
+                </div>
+                <div class="col-33 lr-item-content">
+                    
+                    <button class="button button-clear" ng-click="doSearch()">
+                        搜索
+                    </button>
+                    <button class="button button-clear" ng-click="closeSearchModal()">
+                        取消
+                    </button>
+                </div>
+
+            </div>
+       
+           
+        </div>
+    </ion-header-bar>
+    <ion-content>
+        <div class="lr-searchTitle" ng-hide="searchData.records == 0 "><span>搜索结果 {{searchData.records}} 条</span></div>
+        <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+            <ion-list>
+                <ion-item ng-repeat="sample in searchData.businesss" class="mt10"  ng-click="openDetailsModal(sample.pd_num)">
+                    <div class="row">
+                        <div class="col-60"><span class="lr-title">{{sample.pdd_name}}</span></div>
+                        <div class="col-40"><span class="lr-title" style="text-align:right;">{{sample.pd_date}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-99 lr-item-content"><span>样品：<input type="checkbox" ng-model="smaple.pd_flagSample" /></span> <br /> <span>日期：{{sample.pd_date}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-99 lr-item-content"><span>支数：{{sample.pdd_zhishu}}</span> <br /> <span>批次：{{sample.pdd_batch}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-99 lr-item-content"><p><span>品号：{{sample.pdd_spec}}</span></p><p><span>颜色：{{sample.p_color}}</span></p></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-99 lr-item-content"><p><span>数量：{{sample.pdd_count}}</span></p><p><span>单价：{{sample.pdd_unitPrice}}</span></p></div>
+                    </div>
+
+                </ion-item>
+            </ion-list>
+        </div>
+        <ion-infinite-scroll ng-if="searchData.moredata" on-infinite="loadMoreSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+</ion-modal-view>

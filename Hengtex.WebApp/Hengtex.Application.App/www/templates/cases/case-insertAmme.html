@@ -1,0 +1,46 @@
+﻿<ion-modal-view ng-controller="CaseInsertAmmeCtrl">
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear" ng-click="closePageModel()"><i class="icon ion-ios-arrow-left"></i></button>
+        <h1 class="title">电表录入</h1>
+    </ion-header-bar>
+    <ion-content overflow-scroll="false">
+        <div class="list card mt5" style="height:300px;">
+            <div class="list list-inset">
+                <div class="row">
+                    <div class="col-99">
+                        <button class="button button-block button-positive" ng-click="doBarcode()">扫描条码</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-40"><div class="lr-label "> </div>电表编码：</div>
+                    <div class="col-60 lr-item-content">
+
+                        <p>
+                            <input type="text" name="numAmme" ng-model="data.a_ammeNo" placeholder="电表编号" ng-blur="GetAmmeEntity()">
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-40"><div class="lr-label "> </div>电表名称：</div>
+                    <div class="col-60 lr-item-content">
+                        <input type="text" ng-model="data.NameAmme" placeholder="电表名称">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-40"><div class="lr-label "> </div>起码：</div>
+                    <div class="col-60 lr-item-content">
+                        <input type="text" ng-model="data.QmAmme" placeholder="起码">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-40"><div class="lr-label "> </div>止码：</div>
+                    <div class="col-60 lr-item-content">
+                        <input type="text" ng-model="data.ZmAmme" placeholder="止码">
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </ion-content>
+</ion-modal-view>

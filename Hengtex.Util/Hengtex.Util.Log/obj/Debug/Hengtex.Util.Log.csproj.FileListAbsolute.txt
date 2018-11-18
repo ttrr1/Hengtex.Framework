@@ -1,0 +1,23 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\bin\Debug\Hengtex.Util.Log.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\bin\Debug\Hengtex.Util.Log.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\bin\Debug\log4net.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\bin\Debug\log4net.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\bin\Debug\Hengtex.Util.Log.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\bin\Debug\Hengtex.Util.Log.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\bin\Debug\log4net.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\bin\Debug\log4net.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\bin\Debug\Hengtex.Util.Log.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\bin\Debug\Hengtex.Util.Log.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\bin\Debug\log4net.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\bin\Debug\log4net.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Log\obj\Debug\Hengtex.Util.Log.pdb

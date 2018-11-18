@@ -1,0 +1,16 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear " ng-click="closePageModel()"><i class="icon ion-ios-arrow-left"></i></button>
+        <h1 class="title">当前工序</h1>
+    </ion-header-bar>
+    <ion-content ng-controller="MesListCtrl"   delegate-handle="businesslist-content1">
+        <div class="list mt5">
+            <ion-item class="item-icon-right lr-iconitem" ng-repeat="case in bggxListAlls" type="item-text-wrap" ng-click="OpenMesAddPage(case.num,case.name,case.url)">
+               
+                <span>{{case.name}}</span>
+
+                <i class="icon ion-chevron-right icon-accessory "></i>
+            </ion-item>
+        </div>
+    </ion-content>
+</ion-modal-view>

@@ -1,0 +1,57 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <div class="item-input-inset" style="width:100%;">
+           
+           
+
+            <div class="row">
+                
+                <div class="col-60 lr-item-content">
+
+                    <label class="item-input-wrapper">
+                        <i class="icon ion-ios-search placeholder-icon"></i>
+                        <input type="search" ng-model="searchBgFcltData.keyword" placeholder="搜索">
+                    </label>
+
+                </div>
+                <div class="col-30 lr-item-content">
+
+                    <button class="button button-clear" ng-click="doBgFcltSearch()">
+                        搜索
+                    </button>
+                    <button class="button button-clear" ng-click="closeBgFcltSearchModal()">
+                        确认
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </ion-header-bar>
+    <ion-content>
+      
+        <div class="lr-searchTitle" ng-hide="searchBgFcltData.records == 0 "><span>搜索结果 {{searchBgFcltData.records}} 条</span></div>
+        <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+           
+
+            <ion-radio ng-repeat="sample in searchBgFcltData.BgFclts" ng-click="setEditDataFclt(sample)"
+                       class="item-icon-right">
+
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>编码：{{sample.fclt_num}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>机台：{{sample.fclt_name}}</span> </div>
+                </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>助记符：{{sample.fclt_symbol}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>所在地：{{sample.fclt_installationLocation}}</span> </div>
+                </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>工序分类：{{sample.fclt_typeName}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>可见工序：{{sample.fclt_proName}}</span> </div>
+
+                </div>
+              
+            </ion-radio>
+        </div>
+        <ion-infinite-scroll ng-if="searchBgFcltData.moredata" on-infinite="loadMoreBgFcltSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+</ion-modal-view>

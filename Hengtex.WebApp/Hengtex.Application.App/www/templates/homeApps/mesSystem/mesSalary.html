@@ -1,0 +1,80 @@
+﻿<ion-modal-view>
+    <ion-side-menus>
+
+        <ion-side-menu-content ng-controller="MesSalaryCtrl">
+
+
+            <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+                <button class="button button-clear " ng-click="closeMesPage()"><i class="icon ion-ios-arrow-left"></i></button>
+                <h1 class="title">质量合格工资</h1>
+                <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+            </ion-header-bar>
+            <div class="bar bar-subheader lr-subheader">
+                <div class="row">
+                    <div class="col-50 center"><button class="button button-positive" ng-click="dobgSalarySubmit('合格')">正常无问题</button></div>
+                    <div class="col-50 center"><button class="button button-positive" ng-click="dobgSalarySubmit('不合格')">提交问题</button></div>
+                </div>
+                
+            </div>
+            <ion-content class="has-subheader has-footer">
+                <div class="row">
+                    <div class="col-20 text-right">
+                        <span style="vertical-align:middle">把关工序:&nbsp;&nbsp;&nbsp;</span>
+                    </div>  
+                    <div class="col-80 text-left">
+                        <label>{{mpcs_proNameAc}}</label>
+                    </div>                   
+                </div>
+                <ion-list class="list  list-inset   lr-list-type2  " style="margin:0px;padding:0px">
+                    <div class="row row-bottom " style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">报工记录：</span> </div>
+                        <div class="col-60 lr-item-content text-left"><span><input type="text" ng-model="editDataHgGz.mpc_mprNum" style="border:1px solid #EAEAEA;width:100%"  disabled="disabled"  /></span> </div>
+                        <div class="col-20 lr-item-content text-center"><i class="icon ion-edit" ng-click="openSalaryBgPopModal()">&#xe616;</i></div>
+                    </div>
+                    <div class="row row-bottom " style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">考核项目：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editDataHgGz.mpc_qname" style="border:1px solid #EAEAEA;width:100%"  disabled="disabled" /></span> </div>
+                    </div>
+                    <div class="row row-bottom " style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">坯布匹次：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editDataHgGz.mpc_horseNo" style="border:1px solid #EAEAEA;width:100%"  disabled="disabled" /></span> </div>
+                    </div>
+                    <div class="row row-bottom " style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">个数：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editDataHgGz.mpc_pcs" ng-change="setAmount()" style="border:1px solid #EAEAEA;width:100%"   /></span> </div>
+                    </div>
+                    <div class="row row-bottom " style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">数量：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editDataHgGz.mpc_count" style="border:1px solid #EAEAEA;width:100%"   /></span> </div>
+                    </div>
+                    
+                    <div class="row row-bottom " style="padding-bottom:1%">
+                        <div class="col-20 lr-item-content text-right "><span class="row-bottom">考核方式：</span> </div>
+                        <div class="col-80 lr-item-content text-left"><span><input type="text" ng-model="editDataHgGz.mpc_checkType" style="border:1px solid #EAEAEA;width:100%"  disabled="disabled" /></span> </div>
+                    </div>
+                
+
+                </ion-list>
+
+
+            </ion-content>
+            <div class="bar bar-footer">
+           
+            </div>
+        </ion-side-menu-content>
+        <ion-side-menu side="right">
+            <header class="bar bar-header bar-stable">
+                <h1 class="title">Right</h1>
+            </header>
+            <ion-content class="has-header">
+                <ion-list>
+                    <ion-item nav-clear menu-close href="#/app/search">报工记录</ion-item>
+                    <ion-item nav-clear menu-close href="#/app/search">质检记录</ion-item>
+                    <ion-item nav-clear menu-close href="#/app/search">上班组报工记录</ion-item>
+                </ion-list>
+            </ion-content>
+        </ion-side-menu>
+
+
+    </ion-side-menus>
+</ion-modal-view>

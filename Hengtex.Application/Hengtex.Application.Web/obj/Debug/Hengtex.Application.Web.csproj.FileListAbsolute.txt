@@ -1,0 +1,361 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.dll.config
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.XML
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Antlr3.Runtime.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.SqlServer.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Busines.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Cache.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Code.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Mapping.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Factory.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.CodeGenerator.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.EF.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Extension.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Log.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Offices.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WebControl.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Newtonsoft.Json.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.Formatting.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.WebRequest.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Helpers.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.WebHost.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Mvc.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Optimization.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Razor.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Deployment.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Razor.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\WebGrease.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Interfaces.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Text.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Ioc.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\log4net.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OOXML.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.IService.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.Repository.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.SignalR.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WeChat.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Common.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\MySql.Data.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Oracle.DataAccess.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Data.SQLite.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXmlFormats.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXml4Net.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.FlowWork.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.AspNet.SignalR.Client.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Factory.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Redis.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.CodeGenerator.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.EF.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Extension.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Log.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Offices.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WebControl.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Busines.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Cache.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Code.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Mapping.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Antlr3.Runtime.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.SqlServer.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Newtonsoft.Json.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Helpers.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Mvc.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Optimization.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Razor.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Deployment.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Razor.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.Formatting.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.WebHost.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Redis.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Text.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Ioc.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\log4net.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OOXML.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.IService.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.Repository.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.SignalR.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WeChat.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Common.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Data.SQLite.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXml4Net.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.FlowWork.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.AspNet.SignalR.Client.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.dll.config
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.XML
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Antlr3.Runtime.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.SqlServer.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Busines.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Cache.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Code.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Mapping.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Factory.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.CodeGenerator.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.EF.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Extension.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Log.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Offices.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WebControl.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Newtonsoft.Json.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.Formatting.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.WebRequest.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Helpers.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.WebHost.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Mvc.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Optimization.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Razor.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Deployment.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Razor.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\WebGrease.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Interfaces.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Text.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\MySql.Data.Entity.EF6.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Ioc.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\log4net.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OOXML.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.IService.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WeChat.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.Repository.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.SignalR.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Common.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\MySql.Data.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Oracle.DataAccess.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Data.SQLite.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXmlFormats.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXml4Net.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.FlowWork.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.AspNet.SignalR.Client.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Factory.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Redis.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.CodeGenerator.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.EF.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Extension.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Log.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Offices.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WebControl.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Busines.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Cache.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Code.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Mapping.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Antlr3.Runtime.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.SqlServer.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Newtonsoft.Json.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Helpers.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Mvc.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Optimization.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Razor.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Deployment.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Razor.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.Formatting.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.WebHost.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Redis.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Text.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Ioc.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\log4net.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OOXML.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.IService.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WeChat.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.Repository.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.SignalR.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Common.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\System.Data.SQLite.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXml4Net.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.FlowWork.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.AspNet.SignalR.Client.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Web.Http.resources.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.dll.config
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.XML
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Web.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Antlr3.Runtime.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.SqlServer.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Busines.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Cache.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Code.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Mapping.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Factory.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.CodeGenerator.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.EF.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Extension.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Log.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Offices.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WebControl.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Newtonsoft.Json.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.Formatting.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.WebRequest.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Helpers.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.WebHost.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Mvc.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Optimization.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Razor.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Deployment.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Razor.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\WebGrease.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Interfaces.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Text.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\MySql.Data.Entity.EF6.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Ioc.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\log4net.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OOXML.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.IService.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WeChat.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.Repository.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.SignalR.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Common.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\MySql.Data.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Oracle.DataAccess.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Data.SQLite.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXmlFormats.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXml4Net.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.FlowWork.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.AspNet.SignalR.Client.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Factory.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.Redis.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.CodeGenerator.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.EF.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Extension.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Log.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Offices.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WebControl.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Busines.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Cache.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Code.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Entity.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Mapping.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Antlr3.Runtime.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\EntityFramework.SqlServer.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Newtonsoft.Json.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Helpers.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Mvc.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Optimization.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Razor.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Deployment.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.WebPages.Razor.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Net.Http.Formatting.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Web.Http.WebHost.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Cache.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Redis.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Text.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.Ioc.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\log4net.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OOXML.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.IService.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.WeChat.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Data.Repository.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Application.Service.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.SignalR.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\ServiceStack.Common.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\System.Data.SQLite.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.Practices.ServiceLocation.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\NPOI.OpenXml4Net.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Hengtex.Util.FlowWork.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\Microsoft.AspNet.SignalR.Client.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Web\obj\Debug\Hengtex.Application.Web.pdb

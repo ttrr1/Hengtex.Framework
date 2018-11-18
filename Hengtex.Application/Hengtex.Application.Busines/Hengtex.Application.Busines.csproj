@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{21566527-8F54-4A8D-AA68-7662C2C31FB9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hengtex.Application.Busines</RootNamespace>
+    <AssemblyName>Hengtex.Application.Busines</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Hengtex.Application.Service\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountBLL.cs" />
+    <Compile Include="AppManage\App_TemplatesBLL.cs" />
+    <Compile Include="AppManage\App_ProjectBLL.cs" />
+    <Compile Include="AppManage\AppModuleBLL.cs" />
+    <Compile Include="AppManage\AppModuleButtonBLL.cs" />
+    <Compile Include="AppManage\AppModuleColumnBLL.cs" />
+    <Compile Include="AppManage\AppAuthorizeBLL.cs" />
+    <Compile Include="AppManage\AppDepartmentBLL.cs" />
+    <Compile Include="AppManage\AppOrganizeBLL.cs" />
+    <Compile Include="AppManage\AppPermissionBLL.cs" />
+    <Compile Include="AppManage\AppRoleBLL.cs" />
+    <Compile Include="AppManage\AppUserBLL.cs" />
+    <Compile Include="AuthorizeManage\AuthorizeBLL.cs" />
+    <Compile Include="AuthorizeManage\ModuleFormBLL.cs" />
+    <Compile Include="AuthorizeManage\ModuleFormInstanceBLL.cs" />
+    <Compile Include="BaseManage\con_workshop_turnoverBLL.cs" />
+    <Compile Include="BaseManage\cost_rateExchangeBLL.cs" />
+    <Compile Include="BaseManage\OrganizeBLL.cs" />
+    <Compile Include="BaseManage\studentBLL.cs" />
+    <Compile Include="CustomerManage\CashBalanceBLL.cs" />
+    <Compile Include="CustomerManage\ChanceBLL.cs" />
+    <Compile Include="CustomerManage\ExpensesBLL.cs" />
+    <Compile Include="CustomerManage\InvoiceBLL.cs" />
+    <Compile Include="CustomerManage\ReceivableBLL.cs" />
+    <Compile Include="CustomerManage\ReceivableReportBLL.cs" />
+    <Compile Include="CustomerManage\TrailRecordBLL.cs" />
+    <Compile Include="CustomerManage\CustomerBLL.cs" />
+    <Compile Include="CustomerManage\CustomerContactBLL.cs" />
+    <Compile Include="CustomerManage\OrderBLL.cs" />
+    <Compile Include="CustomerManage\OrderEntryBLL.cs" />
+    <Compile Include="DemoManage\OfficeRkBLL.cs" />
+    <Compile Include="ErpManage\AmmeBLL.cs" />
+    <Compile Include="ErpManage\AmmeDailyBLL.cs" />
+    <Compile Include="ErpManage\con_pan_head_downBLL.cs" />
+    <Compile Include="ErpManage\con_pan_head_inBLL.cs" />
+    <Compile Include="ErpManage\con_pan_head_outBLL.cs" />
+    <Compile Include="ErpManage\con_pan_head_upBLL.cs" />
+    <Compile Include="ErpManage\doc_con_pan_headBLL.cs" />
+    <Compile Include="ErpManage\doc_con_pan_positionBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\doc_flow_proceduresBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\Dpt_batch_tasksBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\mes_bg_batchBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\mes_pro_checkBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\Fclt_facilitiesBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\mes_pro_check_setBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\mes_emp_report_setBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\mes_pro_quality_itemsBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\mes_pro_recordsBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\mes_pro_records_detailBLL.cs" />
+    <Compile Include="ErpManage\mesSystem\mes_pro_salary_checkBLL.cs" />
+    <Compile Include="ErpManage\sale_order_batchesBLL.cs" />
+    <Compile Include="ErpManage\tb_CommonDataDictBLL.cs" />
+    <Compile Include="FlowManage\WFDelegate.cs" />
+    <Compile Include="FlowManage\WFRuntimeBLL.cs" />
+    <Compile Include="FlowManage\WFSchemeInfoBLL.cs" />
+    <Compile Include="FlowManage\WFFrmMainBLL.cs" />
+    <Compile Include="PublicInfoManage\ScheduleBLL.cs" />
+    <Compile Include="ReportManage\RptTempBLL.cs" />
+    <Compile Include="SaleManage\ProRzOrderBLL.cs" />
+    <Compile Include="SaleManage\ProRbOrderBLL.cs" />
+    <Compile Include="SaleManage\ProdeliverySaleBLL.cs" />
+    <Compile Include="SaleManage\ProRbStockBLL.cs" />
+    <Compile Include="SaleManage\ProRbStockDetailsBLL.cs" />
+    <Compile Include="SaleManage\ProRzStockDetailsBLL.cs" />
+    <Compile Include="SaleManage\ProRzStockBLL.cs" />
+    <Compile Include="SaleManage\SaleBLL.cs" />
+    <Compile Include="SystemManage\ExcelExportBLL.cs" />
+    <Compile Include="SystemManage\ExcelImportBLL.cs" />
+    <Compile Include="SystemManage\LogBLL.cs" />
+    <Compile Include="SystemManage\CodeRuleBLL.cs" />
+    <Compile Include="PublicInfoManage\EmailCategoryBLL.cs" />
+    <Compile Include="PublicInfoManage\EmailContentBLL.cs" />
+    <Compile Include="MessageManage\IMContentBLL.cs" />
+    <Compile Include="MessageManage\IMGroupBLL.cs" />
+    <Compile Include="MessageManage\IMUserBLL.cs" />
+    <Compile Include="PublicInfoManage\FileFolderBLL.cs" />
+    <Compile Include="PublicInfoManage\FileInfoBLL.cs" />
+    <Compile Include="PublicInfoManage\NewsBLL.cs" />
+    <Compile Include="PublicInfoManage\NoticeBLL.cs" />
+    <Compile Include="SystemManage\DataBaseBackupBLL.cs" />
+    <Compile Include="AuthorizeManage\FilterIPBLL.cs" />
+    <Compile Include="AuthorizeManage\FilterTimeBLL.cs" />
+    <Compile Include="SystemManage\DataBaseTableBLL.cs" />
+    <Compile Include="SystemManage\DataBaseLinkBLL.cs" />
+    <Compile Include="SystemManage\AreaBLL.cs" />
+    <Compile Include="AuthorizeManage\ModuleBLL.cs" />
+    <Compile Include="AuthorizeManage\ModuleButtonBLL.cs" />
+    <Compile Include="AuthorizeManage\ModuleColumnBLL.cs" />
+    <Compile Include="AuthorizeManage\PermissionBLL.cs" />
+    <Compile Include="BaseManage\DepartmentBLL.cs" />
+    <Compile Include="BaseManage\UserBLL.cs" />
+    <Compile Include="BaseManage\PostBLL.cs" />
+    <Compile Include="BaseManage\JobBLL.cs" />
+    <Compile Include="BaseManage\UserGroupBLL.cs" />
+    <Compile Include="SystemManage\DataItemBLL.cs" />
+    <Compile Include="SystemManage\DataItemDetailBLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BaseManage\RoleBLL.cs" />
+    <Compile Include="WeChatManage\WeChatAppBLL.cs" />
+    <Compile Include="WeChatManage\WeChatOrganizeBLL.cs" />
+    <Compile Include="WeChatManage\WeChatUserBLL.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\Hengtex.Cache\Hengtex.Cache.Factory\Hengtex.Cache.Factory.csproj">
+      <Project>{a68cdd21-2e12-4b11-95db-d0a0fced48b1}</Project>
+      <Name>Hengtex.Cache.Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Hengtex.Cache\Hengtex.Cache\Hengtex.Cache.csproj">
+      <Project>{5af4997c-4395-48af-990c-932259111dff}</Project>
+      <Name>Hengtex.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Hengtex.Data\Hengtex.Data.Repository\Hengtex.Data.Repository.csproj">
+      <Project>{1751a2dd-0f00-4c76-b180-97e8f72fe078}</Project>
+      <Name>Hengtex.Data.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Hengtex.Util.SignalR\Hengtex.Util.SignalR.csproj">
+      <Project>{6bc8c632-4985-4e7e-b5ca-375d400ea8a5}</Project>
+      <Name>Hengtex.Util.SignalR</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Hengtex.Util\Hengtex.Util.Extension\Hengtex.Util.Extension.csproj">
+      <Project>{4b7dde80-dfa1-4938-93f8-3721e2c592b9}</Project>
+      <Name>Hengtex.Util.Extension</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Hengtex.Util\Hengtex.Util.Offices\Hengtex.Util.Offices.csproj">
+      <Project>{4f8b359e-b664-48c0-88d0-31c140602654}</Project>
+      <Name>Hengtex.Util.Offices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Hengtex.Util\Hengtex.Util.WebControl\Hengtex.Util.WebControl.csproj">
+      <Project>{93f81df7-5a0b-4a13-a90e-8cf7c41955c3}</Project>
+      <Name>Hengtex.Util.WebControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Hengtex.Util\Hengtex.Util.WeChat\Hengtex.Util.WeChat.csproj">
+      <Project>{a610b831-7b6a-4e53-8c5d-9b3f0707e349}</Project>
+      <Name>Hengtex.Util.WeChat</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Hengtex.Util\Hengtex.Util\Hengtex.Util.csproj">
+      <Project>{07aa2566-d0e5-47af-a17d-3b1c6aee598d}</Project>
+      <Name>Hengtex.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hengtex.Application.Code\Hengtex.Application.Code.csproj">
+      <Project>{9b10db87-130c-41d3-8687-1fac877db74a}</Project>
+      <Name>Hengtex.Application.Code</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hengtex.Application.Entity\Hengtex.Application.Entity.csproj">
+      <Project>{c10920fe-8c74-4993-a7f4-1da189da842c}</Project>
+      <Name>Hengtex.Application.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hengtex.Application.IService\Hengtex.Application.IService.csproj">
+      <Project>{6ce11ff9-1cb7-494e-89c7-5f06bea94211}</Project>
+      <Name>Hengtex.Application.IService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hengtex.Application.Service\Hengtex.Application.Service.csproj">
+      <Project>{d6b8abea-c923-4605-99a9-b7aca5de4d8a}</Project>
+      <Name>Hengtex.Application.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,57 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <div class="item-input-inset" style="width:100%;">
+
+
+
+            <div class="row">
+
+                <div class="col-60 lr-item-content">
+
+                    <label class="item-input-wrapper">
+                        <i class="icon ion-ios-search placeholder-icon"></i>
+                        <input type="search" ng-model="searchBgConPanHeadData.keyword" placeholder="搜索">
+                    </label>
+
+                </div>
+                <div class="col-30 lr-item-content">
+
+                    <button class="button button-clear" ng-click="doBgConPanHeadSearch()">
+                        搜索
+                    </button>
+                    <button class="button button-clear" ng-click="closeBgConPanHeadSearchModal()">
+                        确认
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </ion-header-bar>
+    <ion-content>
+
+        <div class="lr-searchTitle" ng-hide="searchBgConPanHeadData.records == 0 "><span>搜索结果 {{searchBgConPanHeadData.records}} 条</span></div>
+        <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+
+
+            <ion-radio ng-repeat="sample in searchBgConPanHeadData.BgConPanHeads" ng-click="setEditDataConPanHead(sample)"
+                       class="item-icon-right">
+
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>盘头号：{{sample.dcph_no}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>类型：{{sample.dcph_type}}</span> </div>
+                </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>助记符：{{sample.dcph_symbol}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>净重：{{sample.weight}}</span> </div>
+                </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>当前位置：{{sample.positionNew}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>当前位置名称：{{sample.positionNameNew}}</span> </div>
+
+                </div>
+
+            </ion-radio>
+        </div>
+        <ion-infinite-scroll ng-if="searchBgConPanHeadData.moredata" on-infinite="loadMoreBgConPanHeadSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+</ion-modal-view>

@@ -1,0 +1,250 @@
+@{;
+    ViewBag.Title = "表单页面";
+    Layout = "~/Views/Shared/_OrderForm.cshtml";
+}
+<script>
+    var keyValue = request('keyValue');
+    $(function () {
+        InitialPage();
+        GetOrderEntryGrid();
+        initControl();
+    });
+    //初始化页面
+    function InitialPage() {;
+        //resize重设(表格、树形)宽高
+        $(window).resize(function (e) {
+            window.setTimeout(function () {
+                $('#gridTable').setGridWidth(($('.gridPanel').width()));
+                $('#gridTable').setGridHeight($(window).height() - 240.5);
+            }, 200);
+            e.stopPropagation();
+        });
+    }
+    //加载明细表
+    function GetOrderEntryGrid() {
+        var $grid = $('#gridTable');
+        $grid.jqGrid({
+            unwritten: false,
+            datatype: 'local',
+            height: $(window).height() - 240.5,
+            autowidth: true,
+            colModel: [
+{ label: 'ID', name: 'wtd_id', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '单据号', name: 'wtd_num', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '规格', name: 'wtd_ws', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '原料编码', name: 'wtd_batchCode', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '批号', name: 'wtd_batch', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '原料名称', name: 'wtd_name', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '规格', name: 'wtd_spec', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '型号', name: 'wtd_type', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '颜色', name: 'wtd_color', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '产地', name: 'wtd_from', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '计量单位', name: 'wtd_unit', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '数量', name: 'wtd_count', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '单价', name: 'wtd_unitPrice', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '金额', name: 'wtd_amount', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '成本单价', name: 'wtd_unitPriceCost', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '成本金额', name: 'wtd_amountCost', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '备注', name: 'wtd_remarks', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '创建时间', name: 'CreationDate', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '创建人', name: 'CreatedBy', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '最后修改时间', name: 'LastUpdateDate', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '最后修改人', name: 'LastUpdatedBy', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '审核人', name: 'AppUser', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '审核时间', name: 'AppDate', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '审核标志', name: 'FlagApp', width: 80, align: '', sortable: false, resizable: false ,hidden: true },
+{ label: '删除人', name: 'DelMan', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '删除时间', name: 'DelDate', width: 80, align: '', sortable: false, resizable: false  },
+{ label: '删除标志', name: 'FlagDelete', width: 80, align: '', sortable: false, resizable: false  },
+            ],
+            pager: false,
+            rownumbers: true,
+            shrinkToFit: false,
+            gridview: true,
+            footerrow: false,
+            gridComplete: function () {
+            }
+        });
+        //默认添加13行 空行
+        for (var i = 1; i < 13; i++) {
+            var rowdata = {
+wtd_id: '<input name="wtd_id" type="text" class="editable center" />',
+wtd_num: '<input name="wtd_num" type="text" class="editable center" />',
+wtd_ws: '<input name="wtd_ws" type="text" class="editable center" />',
+wtd_batchCode: '<input name="wtd_batchCode" type="text" class="editable center" />',
+wtd_batch: '<input name="wtd_batch" type="text" class="editable center" />',
+wtd_name: '<input name="wtd_name" type="text" class="editable center" />',
+wtd_spec: '<input name="wtd_spec" type="text" class="editable center" />',
+wtd_type: '<input name="wtd_type" type="text" class="editable center" />',
+wtd_color: '<input name="wtd_color" type="text" class="editable center" />',
+wtd_from: '<input name="wtd_from" type="text" class="editable center" />',
+wtd_unit: '<input name="wtd_unit" type="text" class="editable center" />',
+wtd_count: '<input name="wtd_count" type="text" class="editable center" />',
+wtd_unitPrice: '<input name="wtd_unitPrice" type="text" class="editable center" />',
+wtd_amount: '<input name="wtd_amount" type="text" class="editable center" />',
+wtd_unitPriceCost: '<input name="wtd_unitPriceCost" type="text" class="editable center" />',
+wtd_amountCost: '<input name="wtd_amountCost" type="text" class="editable center" />',
+wtd_remarks: '<input name="wtd_remarks" type="text" class="editable center" />',
+CreationDate: '<input name="CreationDate" type="text" class="editable center" />',
+CreatedBy: '<input name="CreatedBy" type="text" class="editable center" />',
+LastUpdateDate: '<input name="LastUpdateDate" type="text" class="editable center" />',
+LastUpdatedBy: '<input name="LastUpdatedBy" type="text" class="editable center" />',
+AppUser: '<input name="AppUser" type="text" class="editable center" />',
+AppDate: '<input name="AppDate" type="text" class="editable center" />',
+FlagApp: '<input name="FlagApp" type="text" class="editable center" />',
+DelMan: '<input name="DelMan" type="text" class="editable center" />',
+DelDate: '<input name="DelDate" type="text" class="editable center" />',
+FlagDelete: '<input name="FlagDelete" type="text" class="editable center" />',
+            }
+            $grid.jqGrid('addRowData', i, rowdata);
+        };
+    }
+    //初始化控件
+    function initControl() {
+        //获取表单
+        if (!!keyValue) {
+            $.SetForm({
+                url: "../../BaseManage/con_workshop_turnover/GetFormJson",
+                param: { keyValue: keyValue },
+                success: function (data) {
+                    $("#form1").SetWebControls(data.entity);
+                    //明细
+                    var childEntity = data.childEntity;
+                    $('#gridTable').find('[role=row]').each(function (i) {
+                        var row = childEntity[i - 1];
+                        if (row != undefined) {
+$(this).find('input[name="wtd_id"]').val(row.wtd_id);
+$(this).find('input[name="wtd_num"]').val(row.wtd_num);
+$(this).find('input[name="wtd_ws"]').val(row.wtd_ws);
+$(this).find('input[name="wtd_batchCode"]').val(row.wtd_batchCode);
+$(this).find('input[name="wtd_batch"]').val(row.wtd_batch);
+$(this).find('input[name="wtd_name"]').val(row.wtd_name);
+$(this).find('input[name="wtd_spec"]').val(row.wtd_spec);
+$(this).find('input[name="wtd_type"]').val(row.wtd_type);
+$(this).find('input[name="wtd_color"]').val(row.wtd_color);
+$(this).find('input[name="wtd_from"]').val(row.wtd_from);
+$(this).find('input[name="wtd_unit"]').val(row.wtd_unit);
+$(this).find('input[name="wtd_count"]').val(row.wtd_count);
+$(this).find('input[name="wtd_unitPrice"]').val(row.wtd_unitPrice);
+$(this).find('input[name="wtd_amount"]').val(row.wtd_amount);
+$(this).find('input[name="wtd_unitPriceCost"]').val(row.wtd_unitPriceCost);
+$(this).find('input[name="wtd_amountCost"]').val(row.wtd_amountCost);
+$(this).find('input[name="wtd_remarks"]').val(row.wtd_remarks);
+$(this).find('input[name="CreationDate"]').val(row.CreationDate);
+$(this).find('input[name="CreatedBy"]').val(row.CreatedBy);
+$(this).find('input[name="LastUpdateDate"]').val(row.LastUpdateDate);
+$(this).find('input[name="LastUpdatedBy"]').val(row.LastUpdatedBy);
+$(this).find('input[name="AppUser"]').val(row.AppUser);
+$(this).find('input[name="AppDate"]').val(row.AppDate);
+$(this).find('input[name="FlagApp"]').val(row.FlagApp);
+$(this).find('input[name="DelMan"]').val(row.DelMan);
+$(this).find('input[name="DelDate"]').val(row.DelDate);
+$(this).find('input[name="FlagDelete"]').val(row.FlagDelete);
+                        }
+                    });
+                }
+            })
+        }
+    }
+    //保存表单;
+    function AcceptClick() {
+        if (!$('#form1').Validform()) {
+            return false;
+        }
+        var postData = $("#form1").GetWebControls(keyValue);
+        var childEntryJson = [];
+        $('#gridTable').find('[role=row]').each(function (i) {
+        if (!!$(this).find('input[name="wtd_batchCode"]').val()) {
+            childEntryJson.push({
+wtd_id: $(this).find('input[name="wtd_id"]').val(),
+wtd_num: $(this).find('input[name="wtd_num"]').val(),
+wtd_ws: $(this).find('input[name="wtd_ws"]').val(),
+wtd_batchCode: $(this).find('input[name="wtd_batchCode"]').val(),
+wtd_batch: $(this).find('input[name="wtd_batch"]').val(),
+wtd_name: $(this).find('input[name="wtd_name"]').val(),
+wtd_spec: $(this).find('input[name="wtd_spec"]').val(),
+wtd_type: $(this).find('input[name="wtd_type"]').val(),
+wtd_color: $(this).find('input[name="wtd_color"]').val(),
+wtd_from: $(this).find('input[name="wtd_from"]').val(),
+wtd_unit: $(this).find('input[name="wtd_unit"]').val(),
+wtd_count: $(this).find('input[name="wtd_count"]').val(),
+wtd_unitPrice: $(this).find('input[name="wtd_unitPrice"]').val(),
+wtd_amount: $(this).find('input[name="wtd_amount"]').val(),
+wtd_unitPriceCost: $(this).find('input[name="wtd_unitPriceCost"]').val(),
+wtd_amountCost: $(this).find('input[name="wtd_amountCost"]').val(),
+wtd_remarks: $(this).find('input[name="wtd_remarks"]').val(),
+CreationDate: $(this).find('input[name="CreationDate"]').val(),
+CreatedBy: $(this).find('input[name="CreatedBy"]').val(),
+LastUpdateDate: $(this).find('input[name="LastUpdateDate"]').val(),
+LastUpdatedBy: $(this).find('input[name="LastUpdatedBy"]').val(),
+AppUser: $(this).find('input[name="AppUser"]').val(),
+AppDate: $(this).find('input[name="AppDate"]').val(),
+FlagApp: $(this).find('input[name="FlagApp"]').val(),
+DelMan: $(this).find('input[name="DelMan"]').val(),
+DelDate: $(this).find('input[name="DelDate"]').val(),
+FlagDelete: $(this).find('input[name="FlagDelete"]').val(),
+                 });
+            }
+        });
+        $.SaveForm({
+            url: "../../BaseManage/con_workshop_turnover/SaveForm?keyValue=" + keyValue,
+            param: { "strEntity": JSON.stringify(postData), "strChildEntitys": JSON.stringify(childEntryJson) },
+            loading: "正在保存数据...",
+            success: function () {
+                $.currentIframe().$("#gridTable").trigger("reloadGrid");
+            }
+        })
+    }
+</script>
+<div class="bills" >
+ <div style="height:190px;overflow-y:auto;margin:10px 10px;">
+    <table class="form" style="width: 100%;">
+        <tr>
+<th class="formTitle" style="width: 60px;">ID<font face="宋体">*</font></th>
+<td class="formValue"><input id="wt_id" type="text"  class="form-control" isvalid="yes" checkexpession="NotNull"></td>
+<th class="formTitle" style="width: 60px;">单据号<font face="宋体">*</font></th>
+<td class="formValue"><input id="wt_num" type="text"  class="form-control" isvalid="yes" checkexpession="NotNull"></td>
+<th class="formTitle" style="width: 60px;">调出部门编码</th>
+<td class="formValue"><input id="wt_outDepartNum" type="text"  class="form-control" ></td>
+<th class="formTitle" style="width: 60px;">调出部门名称</th>
+<td class="formValue"><input id="wt_outDepartName" type="text"  class="form-control" ></td>
+</tr>
+<tr>
+<th class="formTitle" style="width: 60px;">日期</th>
+<td class="formValue"><input id="wt_date" type="text"  class="form-control" ></td>
+<th class="formTitle" style="width: 60px;">数量</th>
+<td class="formValue"><input id="wt_count" type="text"  class="form-control" ></td>
+<th class="formTitle" style="width: 60px;">调入部门编码</th>
+<td class="formValue"><input id="wt_inDepartNum" type="text"  class="form-control" ></td>
+<th class="formTitle" style="width: 60px;">调入部门名称</th>
+<td class="formValue"><input id="wt_inDepartName" type="text"  class="form-control" ></td>
+</tr>
+<tr>
+<th class="formTitle" style="width: 60px;">备注</th>
+<td class="formValue"><input id="wt_remarks" type="text"  class="form-control" ></td>
+     </tr>
+    </table>
+ </div>
+ <div class="gridPanel" >
+     <table id="gridTable" ></table>
+ </div>
+</div>
+<style>
+    body {
+        margin:0px;
+    }
+    .bills {
+        overflow: hidden;
+        border-radius: 0px;
+        position: relative;
+        background: #FFFFFF;
+        border: 0px solid rgb(204, 204, 204);
+        box-shadow:none;
+        padding: 0px;
+    }
+    .ui-widget-content {
+        border-left: 0px;
+        border-right: 0px;
+        border-bottom: 0px;
+    }
+</style>

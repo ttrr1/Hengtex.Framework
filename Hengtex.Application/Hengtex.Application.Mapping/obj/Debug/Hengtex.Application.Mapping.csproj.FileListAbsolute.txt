@@ -1,0 +1,200 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Interfaces.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Interfaces.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.csprojResolveAssemblyReference.cache
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Interfaces.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Interfaces.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Interfaces.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.csprojResolveAssemblyReference.cache
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Mapping.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Interfaces.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Entity.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Application.Code.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.Extension.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Factory.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Util.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Hengtex.Cache.Redis.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\Newtonsoft.Json.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Redis.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Text.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\bin\Debug\ServiceStack.Common.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.csprojResolveAssemblyReference.cache
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Application\Hengtex.Application.Mapping\obj\Debug\Hengtex.Application.Mapping.pdb

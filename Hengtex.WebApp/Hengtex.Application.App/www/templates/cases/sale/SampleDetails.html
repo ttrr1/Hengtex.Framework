@@ -1,0 +1,96 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear " ng-click="closeDetailsModal()"><i class="icon ion-ios-arrow-left"></i></button>
+        <h1 class="title">样品详情</h1>
+        <div class="buttons">
+            <button class="button button-clear" ng-click="openEditModal(detailsData)"><i class="icon ion-ios-compose-outline"></i></button>
+        </div>
+    </ion-header-bar>
+    <ion-content delegate-handle="businessDetailHandle">
+        <ion-list>
+           
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>样品编码</span>
+                </div>
+                <span>{{detailsData.s_code}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>产品名称</span>
+                </div>
+                <span>{{detailsData.p_name}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>属性码</span>
+                </div>
+                <span>{{detailsData.p_model}}</span>
+            </ion-item>
+           
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>支数</span>
+                </div>
+                <span >{{detailsData.p_zhishu}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>批次</span>
+                </div>
+                <span class="lr-label royal-bg">{{detailsData.p_batch}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>品号</span>
+                </div>
+                <span >{{detailsData.p_spec}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>颜色</span>
+                </div>
+                <span>{{detailsData.p_color}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>单位</span>
+                </div>
+                <span>{{detailsData.p_unit}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>等级</span>
+                </div>
+                <span>{{detailsData.p_grade}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>当前库存</span>
+                </div>
+                <span>{{detailsData.s_count}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>盘点库存</span>
+                </div>
+                <span>{{detailsData.s_countCheck}}%</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>样品说明</span>
+                </div>
+                <span>{{detailsData.s_desc}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>备注</span>
+                </div>
+                <span>{{detailsData.s_note}}</span>
+            </ion-item>
+         
+        </ion-list>
+    </ion-content>
+</ion-modal-view>

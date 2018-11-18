@@ -1,0 +1,31 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.csprojResolveAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.csprojResolveAssemblyReference.cache
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\bin\Debug\Hengtex.Cache.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.csprojResolveAssemblyReference.cache
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache\obj\Debug\Hengtex.Cache.pdb

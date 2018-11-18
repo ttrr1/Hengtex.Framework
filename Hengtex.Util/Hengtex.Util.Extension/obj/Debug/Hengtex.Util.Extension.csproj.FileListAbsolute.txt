@@ -1,0 +1,36 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.csprojResolveAssemblyReference.cache
+D:\app1\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.dll
+D:\app1\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.pdb
+D:\app1\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.csprojResolveAssemblyReference.cache
+D:\app1\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.dll
+D:\app1\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.csprojResolveAssemblyReference.cache
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\bin\Debug\Hengtex.Util.Extension.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.csprojResolveAssemblyReference.cache
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Extension\obj\Debug\Hengtex.Util.Extension.pdb

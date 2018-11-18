@@ -1,0 +1,103 @@
+﻿
+<ion-modal-view >
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <div class="row">
+            <div class="col-50 center"><button class="button button-positive" ng-click="confirmSalaryBg()">确认</button></div>
+            <div class="col-50 center"><button class="button button-positive" ng-click="closeSalaryBgPopModal()">取消</button></div>
+        </div>
+    </ion-header-bar>
+    <div class="bar bar-subheader ">
+        <div class="item-input-inset" style="width:100%;">
+
+
+
+            <div class="row">
+
+                <div class="col-60 lr-item-content">
+
+                    <label class="item-input-wrapper">
+                        <i class="icon ion-ios-search placeholder-icon"></i>
+                        <input type="search" ng-model="searchData.keyword" placeholder="搜索">
+                    </label>
+
+                </div>
+                <div class="col-30 lr-item-content">
+
+                    <button class="button button-positive" ng-click="doSearch()">
+                        搜索
+                    </button>
+                   
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <ion-content class="has-subheader ">
+        <div class="lr-searchTitle" ng-hide="searchData.records == 0 "><span>搜索结果 {{searchData.records}} 条</span></div>
+        <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+            <ion-list>
+
+                <ion-radio ng-repeat="sample in searchData.businesss" ng-click="setSelectedTestBg(sample)"
+                           class="item-icon-right">
+
+
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>单据号：{{sample.mpr_num}}</span> </div>
+                        <div class="col-50 lr-item-content"><span>报工日期：{{sample.mpr_date}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>工序ID：{{sample.mpr_procedureID}}</span> </div>
+                        <div class="col-50 lr-item-content"><span>工序名：{{sample.mpr_procedureName}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>机台号：{{sample.mpr_fcltNum}}</span></div>
+                        <div class="col-50 lr-item-content"><span>机台名：{{sample.mpr_fcltName}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>班组：{{sample.mpr_group}}</span></div>
+                        <div class="col-50 lr-item-content"><span>批次：{{sample.mpr_batch}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>品号：{{sample.mpr_pinhao}}</span></div>
+                        <div class="col-50 lr-item-content"><span>颜色：{{sample.mpr_color}}</span></div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>数量：{{sample.mpr_count}}</span></div>
+                        <div class="col-50 lr-item-content"><span>属性码：{{sample.mpr_attr}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>比例：{{sample.mpr_bl}}</span></div>
+                        <div class="col-50 lr-item-content"><span>单位：{{sample.mpr_unit}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>盘头号：{{sample.mpr_panNo}}</span></div>
+                        <div class="col-50 lr-item-content"><span>绞数：{{sample.mpr_hankCount}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>匹次：{{sample.mpr_horseNo}}</span></div>
+                        <div class="col-50 lr-item-content"><span>遍数：{{sample.mpr_timeCount}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>货位：{{sample.mpr_location}}</span></div>
+                        <div class="col-50 lr-item-content"><span>货位名称：{{sample.mpr_locationName}}</span></div>
+                    </div>
+
+                </ion-radio>
+
+            </ion-list>
+        </div>
+        <ion-infinite-scroll ng-if="searchData.moredata" on-infinite="loadMoreSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+</ion-modal-view>
+
+
+
+
+
+
+
+
+
+
+

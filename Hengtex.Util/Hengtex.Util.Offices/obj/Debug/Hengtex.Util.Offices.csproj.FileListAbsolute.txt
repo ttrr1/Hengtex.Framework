@@ -1,0 +1,80 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.csprojResolveAssemblyReference.cache
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.csprojResolveAssemblyReference.cache
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\Hengtex.Util.Offices.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OOXML.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\bin\Debug\NPOI.OpenXml4Net.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.csprojResolveAssemblyReference.cache
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Offices\obj\Debug\Hengtex.Util.Offices.pdb

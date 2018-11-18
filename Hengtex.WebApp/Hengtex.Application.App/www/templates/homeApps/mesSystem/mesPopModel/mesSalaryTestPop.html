@@ -1,0 +1,42 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <div class="row">
+            <div class="col-50 center"><button class="button button-positive" ng-click="confirmSalaryTest()">确认</button></div>
+            <div class="col-50 center"><button class="button button-positive" ng-click="closeSalaryTestPopModal()">取消</button></div>
+        </div>
+    </ion-header-bar>
+    <ion-content>
+      
+        <div class="list  list-inset    lr-list-type2" style="margin-top:0px;">
+
+            <ion-radio ng-repeat="sample in salaryTests" ng-click="setSelectedsalaryTest(sample)"
+                                class="item-icon-right" >
+
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>序号：{{sample.mpqi_id}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>工序名称：{{sample.mpqi_procedureName}}</span> </div>
+                    </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>项目名称：{{sample.mpqi_name}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>考核方式：{{sample.mpqi_checkType}}</span> </div>
+                </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>单价比例%：{{sample.mpqi_price}}</span> </div>
+
+                </div>
+
+            </ion-radio>
+
+
+        </div>
+
+      
+      
+    </ion-content>
+
+    
+</ion-modal-view>
+
+
+
+

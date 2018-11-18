@@ -1,0 +1,71 @@
+﻿<ion-modal-view ng-controller="MesTestListCtrl">
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear " ng-click="closeMesPage()"><i class="icon ion-ios-arrow-left"></i></button>
+
+        <h1 class="title">{{hggz}}</h1>
+        <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+    </ion-header-bar>
+    <div class="bar bar-subheader ">
+        <div class="item-input-inset" style="width:100%;">
+
+
+
+            <div class="row">
+
+                <div class="col-60 lr-item-content">
+
+                    <label class="item-input-wrapper">
+                        <i class="icon ion-ios-search placeholder-icon"></i>
+                        <input type="search" ng-model="searchData.keyword" placeholder="搜索">
+                    </label>
+
+                </div>
+                <div class="col-30 lr-item-content">
+
+                    <button class="button button-positive" ng-click="doSearch()">
+                        搜索
+                    </button>
+                    <button class="button button-positive" ng-click="closeMesPage()">
+                        取消
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <ion-content class="has-subheader ">
+        <div class="lr-searchTitle" ng-hide="searchData.records == 0 "><span>搜索结果 {{searchData.records}} 条</span></div>
+        <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+            <ion-list>
+              
+
+                <ion-item ng-repeat="business in searchData.businesss" class="mt10" >
+                   
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span class="row-bottom">考核项目：</span> </div>
+                        <div class="col-50 lr-item-content"><span >{{business.mpc_qname}}</span> </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span class="row-bottom">个数：</span> </div>
+                        <div class="col-50 lr-item-content"><span >{{business.mpc_pcs}}</span> </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span class="row-bottom">数量：</span> </div>
+                        <div class="col-50 lr-item-content"><span >{{business.mpc_count}}</span> </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span class="row-bottom">报工记录：</span> </div>
+                        <div class="col-50 lr-item-content"><span >{{business.mpc_mprNum}}</span> </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span class="row-bottom">考核方式：</span> </div>
+                        <div class="col-50 lr-item-content"><span >{{business.mpc_checkType}}</span> </div>
+                    </div>
+
+                </ion-item>
+            </ion-list>
+        </div>
+        <ion-infinite-scroll ng-if="searchData.moredata" on-infinite="loadMoreSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+</ion-modal-view>
+

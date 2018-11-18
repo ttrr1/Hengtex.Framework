@@ -1,0 +1,87 @@
+﻿<ion-modal-view ng-controller="AmmeDailayListCtrl">
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear " ng-click="closePageModel()"><i class="icon ion-ios-arrow-left"></i></button>
+
+        <h1 class="title">电表日报查询</h1>
+        <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+    </ion-header-bar>
+    <div class="bar bar-subheader ">
+        <div class="item-input-inset" style="width:100%;">
+
+
+
+            <div class="row">
+                <div class="col-20 lr-item-content">
+
+                    <button class="button button-positive" ng-click="openSearchPopModal()">
+                        筛选条件
+                    </button>
+
+                </div>
+                <div class="col-60 lr-item-content">
+
+                    <label class="item-input-wrapper">
+                        <i class="icon ion-ios-search placeholder-icon"></i>
+                        <input type="search" ng-model="searchData.keyword" placeholder="搜索">
+                    </label>
+
+                </div>
+                <div class="col-20 lr-item-content">
+
+                    <button class="button button-positive" ng-click="doSearch()">
+                        搜索
+                    </button>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <ion-content class="has-subheader ">
+        <div class="lr-searchTitle" ng-hide="searchData.records == 0 "><span>搜索结果 {{searchData.records}} 条</span></div>
+        <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+            <ion-list>
+
+
+                <ion-item ng-repeat="sample in searchData.businesss" class="mt10">
+
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>电表编码：{{sample.a_ammeNo}}</span> </div>
+                        <div class="col-50 lr-item-content"><span>电表名称：{{sample.a_ammeName}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>电表倍率：{{sample.a_amme}}</span> </div>
+                        <div class="col-50 lr-item-content"><span>变压器：{{sample.a_transformer}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>电表类别：{{sample.a_ammeType}}</span></div>
+                        <div class="col-50 lr-item-content"><span>一级机构名称：{{sample.a_Dept}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>二级机构名称：{{sample.a_DeptTow}}</span></div>
+                        <div class="col-50 lr-item-content"><span>三级机构名称：{{sample.a_DeptThree}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>制单人：{{sample.ad_registrant}}</span></div>
+                        <div class="col-50 lr-item-content"><span>制单时间：{{sample.ad_registTime}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>起码：{{sample.ad_readingStart}}</span></div>
+                        <div class="col-50 lr-item-content"><span>止码：{{sample.ad_readingEnd}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>实际度数：{{sample.ad_realDegree}}</span></div>
+                        <div ng-bind="validedTime | date:'yyyy-MM-dd'" ng-click="openDatePicker()" ></div>                  
+                     
+                    </div>
+
+               
+                </ion-item>
+            </ion-list>
+
+        </div>
+        <ion-infinite-scroll ng-if="searchData.moredata" on-infinite="loadMoreSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+</ion-modal-view>
+
+

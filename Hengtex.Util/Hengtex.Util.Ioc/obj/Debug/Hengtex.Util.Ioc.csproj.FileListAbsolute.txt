@@ -1,0 +1,86 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.csprojResolveAssemblyReference.cache
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.csprojResolveAssemblyReference.cache
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Hengtex.Util.Ioc.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.csprojResolveAssemblyReference.cache
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util\Hengtex.Util.Ioc\obj\Debug\Hengtex.Util.Ioc.pdb

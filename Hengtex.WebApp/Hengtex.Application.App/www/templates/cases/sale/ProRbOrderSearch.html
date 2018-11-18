@@ -1,0 +1,85 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <div class="item-input-inset" style="width:100%;">
+            
+            <div class="row">
+                <div class="col-33 lr-item-content" style="border-right:1px solid black">
+                    <label class="item-input-wrapper" ng-click="openSourceSelectModal()">
+                        <input type="search" ng-model="searchData.condation" placeholder="请选择" >
+                    </label>
+                </div>
+                <div class="col-33 lr-item-content">
+                    
+                    <label class="item-input-wrapper"> 
+                        <i class="icon ion-ios-search placeholder-icon"></i>                       
+                        <input type="search" ng-model="searchData.keyword" placeholder="搜索">
+                    </label>
+                   
+                </div>
+                <div class="col-33 lr-item-content">
+                    
+                    <button class="button button-clear" ng-click="doSearch()">
+                        搜索
+                    </button>
+                    <button class="button button-clear" ng-click="closeSearchModal()">
+                        取消
+                    </button>
+                </div>
+
+            </div>
+           
+          
+           
+        </div>
+    </ion-header-bar>
+    <ion-content>
+        <div class="lr-searchTitle" ng-hide="searchData.records == 0 "><span>搜索结果 {{searchData.records}} 条</span></div>
+        <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+            <ion-list>
+                <ion-item ng-repeat="sample in searchData.businesss" class="mt10" ng-click="openDetailsModal(sample.o_num)">
+                    <div class="row">
+                        <div class="col-99"><span class="lr-title">{{sample.o_custName}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>客户等级：{{sample.khlx}}</span> </div>
+                        <div class="col-50 lr-item-content"><span>客户区域：{{sample.custregion}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>分类：{{sample.o_type}}</span> </div>
+                        <div class="col-50 lr-item-content"><span>订单类型：{{sample.o_typedeal}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>数量：{{sample.b_count}}</span></div>
+                        <div class="col-50 lr-item-content"><span>批号：{{sample.b_num}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>品号：{{sample.b_pinhao}}</span></div>
+                        <div class="col-50 lr-item-content"><span>颜色：{{sample.b_color}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>坯布下机米数：{{sample.hr_completeNum}}</span></div>
+                        <div class="col-50 lr-item-content"><span>包装数量：{{sample.countPack}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>发货数量：{{sample.countDelivery}}</span></div>
+                        <div class="col-50 lr-item-content"><span>原始交期：{{sample.dateLastDelivery}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>最近发货日期：{{sample.dateLastDelivery}}</span></div>
+                        <div class="col-50 lr-item-content"><span>完工日期：{{sample.b_timeComplete}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>调度员：{{sample.o_dispatcher}}</span></div>
+                        <div class="col-50 lr-item-content"><span>签单部门：{{sample.o_departName}}</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-50 lr-item-content"><span>日期：{{sample.o_dateOrder}}</span></div>
+                        <div class="col-50 lr-item-content"><span>订单编号：{{sample.o_num}}</span></div>
+                    </div>
+
+                </ion-item>
+            </ion-list>
+        </div>
+        <ion-infinite-scroll ng-if="searchData.moredata" on-infinite="loadMoreSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+</ion-modal-view>

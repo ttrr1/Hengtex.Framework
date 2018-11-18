@@ -1,0 +1,16 @@
+﻿namespace Hengtex.Application.Mapping.AppManage
+{
+    using Hengtex.Application.Entity.AppManage;
+    using System;
+    using System.Data.Entity.ModelConfiguration;
+
+    public class App_TemplatesMap : EntityTypeConfiguration<App_TemplatesEntity>
+    {
+        public App_TemplatesMap()
+        {
+            base.ToTable("App_Templates");
+            base.HasKey<string>(t => t.F_Id);
+        }
+    }
+}
+

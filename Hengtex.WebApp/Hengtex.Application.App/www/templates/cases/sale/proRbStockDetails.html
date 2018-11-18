@@ -1,0 +1,63 @@
+﻿<ion-modal-view >
+  <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+    <button class="button button-clear " ng-click="closeDetailsModal()"><i class="icon ion-ios-arrow-left"></i></button>
+    <h1 class="title">绒布库存详情</h1>
+  </ion-header-bar>
+  <div class="bar bar-subheader lr-subheader">
+      <div class="lr-left-tool">
+          <div class="lr-down-select"><span>全部</span><span class="num">{{detailsData.records}}条</span><span><i class="icon ion-ios-arrow-down"></i></span></div>
+      </div>
+      <div class="lr-right-tool">
+          <button class="button button-clear"><i class="icon iconfont">&#xe6f5;</i></button>
+          <button class="button button-clear"><i class="icon iconfont">&#xe654;</i></button>
+      </div>
+  </div>
+  <ion-content delegate-handle="businesslist-content">
+      <ion-refresher pulling-text="下拉刷新" on-refresh="doRefresh()"></ion-refresher>
+      <div class="list  list-inset lr-list-type2" style="margin-top:40px;">
+          <ion-list>
+              <ion-item ng-repeat="business in detailsData.businesss" class="item-remove-animate mt10" >
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>日期：{{business.mpp_dateCheck}}</span> </div>
+                      <div class="col-50 lr-item-content"><span>批次：{{business.mpp_batch}}</span></div>
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>品号：{{business.mpp_pinhao}}</span></div>
+                      <div class="col-50 lr-item-content"><span>颜色：{{business.mpp_color}}</span></div>
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>包号：{{business.ppg_number}}</span></div>
+                      <div class="col-50 lr-item-content"><span>等级：{{business.ppg_grade}}</span></div>
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>内降：<input type="checkbox" ng-model="business.ppg_flagLower" />    </span></div>
+                      <div class="col-50 lr-item-content"><span>匹重：{{business.ppg_weight}}</span></div>
+
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>段数：{{business.ppg_counts}}</span></div>
+                      <div class="col-50 lr-item-content"><span>结辫：{{business.ppg_jiebian}}</span></div>
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>毛长：{{business.ppg_lengthReal}}</span></div>
+                      <div class="col-50 lr-item-content"><span>净长：{{business.ppg_length}}</span></div>
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>零布：{{business.ppg_pieces}}</span></div>
+                      <div class="col-50 lr-item-content"><span>废料：{{business.ppg_wastes}}</span></div>
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>幅宽：{{business.ppg_width}}</span></div>
+                      <div class="col-50 lr-item-content"><span>毛高：{{business.ppg_height}}</span></div>
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>克重：{{business.ppg_weightEvery}}</span></div>
+                      <div class="col-50 lr-item-content"><span>客户包号：{{business.ppg_numberCust}}</span></div>
+                  </div>
+              </ion-item>
+          </ion-list>
+      </div>
+      <ion-infinite-scroll ng-if="data.moredata" on-infinite="loadMoreDetails()" distance="1%"></ion-infinite-scroll>
+  </ion-content>
+
+</ion-modal-view>

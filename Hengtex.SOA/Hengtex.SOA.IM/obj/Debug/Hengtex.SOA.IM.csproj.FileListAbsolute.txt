@@ -1,0 +1,298 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.exe.config
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.exe
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.SqlServer.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Busines.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Mapping.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.EF.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WebControl.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Cors.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Diagnostics.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Security.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Owin.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Web.Cors.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.IService.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Code.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.Repository.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Factory.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.SignalR.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Offices.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WeChat.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Ioc.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.FlowWork.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OOXML.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\MySql.Data.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Oracle.DataAccess.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Data.SQLite.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Interfaces.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Text.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXml4Net.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Common.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Busines.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Mapping.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.EF.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WebControl.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.SqlServer.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Cors.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Diagnostics.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Security.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.IService.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Code.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.Repository.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Factory.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.SignalR.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Offices.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WeChat.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Ioc.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.FlowWork.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Redis.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OOXML.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Data.SQLite.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Redis.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Text.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXml4Net.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Common.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.SOA.IM.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.IM.Service.exe
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.IM.Service.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.exe.config
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.exe
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.SqlServer.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Busines.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Mapping.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.EF.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WebControl.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Cors.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Diagnostics.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Hosting.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Security.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Newtonsoft.Json.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Owin.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Web.Cors.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.IService.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WeChat.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.Repository.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Offices.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Code.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Extension.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Factory.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.SignalR.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Ioc.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.FlowWork.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OOXML.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\MySql.Data.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Oracle.DataAccess.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Data.SQLite.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXml4Net.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Interfaces.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Text.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Common.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Busines.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Mapping.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.EF.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WebControl.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.SqlServer.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Cors.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Diagnostics.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Hosting.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Security.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Newtonsoft.Json.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.IService.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WeChat.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.Repository.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Offices.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Code.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Extension.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Factory.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.SignalR.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Ioc.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.FlowWork.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OOXML.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Redis.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Data.SQLite.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXml4Net.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Redis.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Text.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Common.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.SOA.IM.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.IM.Service.exe
+F:\yun\Hengtex.Framework V1.0\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.IM.Service.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.exe.config
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.exe
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.IM.Service.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.SqlServer.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Busines.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Mapping.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.EF.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WebControl.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Cors.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Diagnostics.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Security.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Owin.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Web.Cors.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.IService.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WeChat.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.Repository.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Offices.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Code.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Factory.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.SignalR.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Ioc.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.FlowWork.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OOXML.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\MySql.Data.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Oracle.DataAccess.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Data.SQLite.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXml4Net.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Interfaces.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Text.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Common.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Busines.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Entity.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Mapping.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.EF.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WebControl.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\EntityFramework.SqlServer.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Cors.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Diagnostics.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Owin.Security.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.IService.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.WeChat.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.Repository.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Offices.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Code.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Application.Service.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Factory.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.SignalR.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Data.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.Ioc.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Util.FlowWork.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OOXML.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Hengtex.Cache.Redis.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\System.Data.SQLite.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\NPOI.OpenXml4Net.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Redis.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Text.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\bin\Debug\ServiceStack.Common.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.SOA.IM.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.SOA.IM.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.SOA.IM.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.IM.Service.exe
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.SOA\Hengtex.SOA.IM\obj\Debug\Hengtex.IM.Service.pdb

@@ -1,0 +1,97 @@
+﻿<ion-modal-view ng-controller="CasesPanOutCtrl">
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear" ng-click="closePageModel()"><i class="icon ion-ios-arrow-left"></i></button>
+        <h1 class="title">{{caseItem.name}}</h1>
+        <button class="button button-clear" ng-click="doSubmit()">提交</button>
+    </ion-header-bar>
+    <ion-content>
+        <div class="list card mt5 " >
+            <div class="list list-inset">
+                <div class="item row">
+                    <div class="col-20 lr-item-htitle">盘头编号</div>
+                    <div class="col-60 lr-item-content">
+                        <p>
+                            <input type="text" name="pho_panNum" ng-model="editData.pho_panNum" placeholder="盘头编号" ng-blur="GetPanEntity()">
+                        </p>
+                    </div>
+                    <div class="col-20 lr-item-content text-right">
+                        <p>
+                            <button class="button  button-positive button-small" ng-click="doBarcode()">扫描盘头</button>
+                        </p>
+                    </div>
+                </div>
+                <div class="item row">
+                    <div class="col-20 lr-item-htitle"> 盘头名称</div>
+                    <div class="col-80 lr-item-content">
+                        <input type="text" ng-model="editData.pho_panno" placeholder="盘头名称">
+                    </div>
+                </div>
+                <div class="item row">
+                    <div class="col-20 lr-item-htitle">货位编号</div>
+                    <div class="col-60 lr-item-content">
+                        <p>
+                            <input type="text" name="pho_panNum" ng-model="editData.dcph_position" placeholder="货位编号" ng-blur="GetPanEntity()">
+                        </p>
+                    </div>
+                    <div class="col-20 lr-item-content text-right">
+                        <p>
+                            <button class="button button-small button-positive" ng-click="doBarcode()">扫描货位</button>
+                        </p>
+                    </div>
+                </div>
+                <div class="item row">
+                    <div class="col-20 lr-item-htitle">货位名称</div>
+                    <div class="col-60 lr-item-content">
+                        <input type="text" ng-model="editData.dcph_positionName" placeholder="货位名称">
+                    </div>
+
+                </div>
+                <div class="item row">
+                    <div class="col-20 lr-item-htitle">任务单号</div>
+                    <div class="col-60 lr-item-content">
+                        <input type="text" ng-model="editData.pho_planDetail" placeholder="任务单号">
+                    </div>
+                </div>
+                <div class="item row">
+                    <div class="col-20 lr-item-htitle">批次</div>
+                    <div class="col-60 lr-item-content">
+                        <input type="text" ng-model="editData.pho_batch" placeholder="批次">
+                    </div>
+                </div>
+                <div class="item row">
+                    <div class="col-20 lr-item-htitle">品号</div>
+                    <div class="col-60 lr-item-content">
+                        <input type="text" ng-model="editData.pho_pinhao" placeholder="品号">
+                    </div>
+                </div>
+                <div class="item row">
+                    <div class="col-20 lr-item-htitle">颜色</div>
+                    <div class="col-60 lr-item-content">
+                        <input type="text" ng-model="editData.pho_color" placeholder="颜色">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="item row">
+            <div class="col-99 lr-item-content text-right">
+                <p>
+                    <button class="button button-small button-positive" ng-click="doBarcode()">扫描人员</button>
+                </p>
+            </div>
+        </div>
+        <div>
+            <ion-list>
+                <ion-item ng-repeat="emp in editData.emps" class="item-remove-animate mt10">
+                    <div class="item row">
+                        <div class="col-20"><span class="lr-title">编号</span></div>
+                        <div class="col-30"><span class="lr-title"><input type="text" ng-model="editData.emps.phe_empNo" placeholder="编号" /></span></div>
+                        <div class="col-10"><span class="lr-title">姓名</span></div>
+                        <div class="col-30"><span class="lr-title"><input type="text" ng-model="editData.emps.phe_name" placeholder="姓名" /></span></div>
+                        <div class="col-10"><span class="lr-title"></span><ion-option-button ng-click="doDelete(emp)"><span class="lr-trash-circled"><i class="icon ion-ios-trash-outline"></i></span></ion-option-button></div>
+                    </div>
+                </ion-item>
+            </ion-list>
+        </div>
+</ion-content>
+</ion-modal-view>

@@ -1,0 +1,55 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear " ng-click="closeDetailsModal()"><i class="icon ion-ios-arrow-left"></i></button>
+        <h1 class="title">{{detailsData.dcph_num}}</h1>
+        <div class="buttons">
+            <button class="button button-clear" ng-click="openEditModal(detailsData)"><i class="icon ion-ios-compose-outline"></i></button>
+            <button class="button button-clear" style="margin-left:5px;" ng-click="doDelete(detailsData)"><i class="icon ion-ios-trash-outline"></i></button>
+        </div>
+    </ion-header-bar>
+    <ion-content delegate-handle="customersDetailHandle">
+        <ion-list>
+            <ion-item style="color: rgba(0, 0, 0, 0.5);font-size: 12px;padding: 2px 10px;">
+                <div><span class="balanced">{{detailsData.createUserName}}</span> 创建于 {{detailsData.dcph_dateIn | date:'yyyy-MM-dd HH:mm:ss'}}</div>
+                <div ng-hide="!detailsData.ModifyUserName"><span class="balanced">{{detailsData.modifyUserName}}</span> 修改于 {{detailsData.modifyDate}}</div>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>盘头编号</span>
+                </div>
+                <span>{{detailsData.dcph_num}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>盘头号</span>
+                </div>
+                <span>{{detailsData.dcph_no}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>盘头状态</span>
+                </div>
+                <span class="lr-label positive-bg">{{detailsData.dcph_status}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>盘头位置</span>
+                </div>
+                <span class="lr-label royal-bg">{{detailsData.dcph_positionName}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>机台</span>
+                </div>
+                <span class="lr-label balanced-bg">{{detailsData.dcph_fcltNameNext}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>批次</span>
+                </div>
+                <span>{{detailsData.dcph_batch}}</span>
+            </ion-item>
+
+        </ion-list>
+    </ion-content>
+</ion-modal-view>

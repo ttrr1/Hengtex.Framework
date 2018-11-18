@@ -1,0 +1,200 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Oracle.DataAccess.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Oracle.DataAccess.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.csprojResolveAssemblyReference.cache
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Oracle.DataAccess.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Oracle.DataAccess.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Oracle.DataAccess.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.csprojResolveAssemblyReference.cache
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.EF.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Oracle.DataAccess.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Ioc.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Data.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Newtonsoft.Json.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\Hengtex.Util.Extension.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\bin\Debug\System.Data.SQLite.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.csprojResolveAssemblyReference.cache
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Data\Hengtex.Data.EF\obj\Debug\Hengtex.Data.EF.pdb

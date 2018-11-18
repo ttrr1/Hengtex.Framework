@@ -1,0 +1,139 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear " ng-click="closeDetailsModal()"><i class="icon ion-ios-arrow-left"></i></button>
+        <h1 class="title">染整订单详情</h1>
+        
+    </ion-header-bar>
+    <ion-content delegate-handle="businessDetailHandle">
+        <ion-list>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>订单编号</span>
+                </div>
+                <span>{{detailsData.o_num}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>分类</span>
+                </div>
+                <span>{{detailsData.o_type}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>订单类型</span>
+                </div>
+                <span>{{detailsData.o_dealType}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>客户名称</span>
+                </div>
+                <span>{{detailsData.o_custName}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>客户等级</span>
+                </div>
+                <span>{{detailsData.khlx}}</span>
+            </ion-item>
+           
+           
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>客户区域</span>
+                </div>
+                <span >{{detailsData.custregion}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>数量</span>
+                </div>
+                <span class="lr-label royal-bg">{{detailsData.b_count}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>批号</span>
+                </div>
+                <span >{{detailsData.b_num}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>品号</span>
+                </div>
+                <span>{{detailsData.b_pinhao}}</span>
+            </ion-item>
+            
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>颜色</span>
+                </div>
+                <span>{{detailsData.b_color}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>坯布下机米数</span>
+                </div>
+                <span>{{detailsData.hr_completeNum}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>包装数量</span>
+                </div>
+                <span>{{detailsData.countPack}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>发货数量</span>
+                </div>
+                <span>{{detailsData.countDelivery}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>原始交期</span>
+                </div>
+                <span>{{detailsData.b_dateDeliveryArig}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>最近发货日期</span>
+                </div>
+                <span>{{detailsData.dateLastDelivery}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>完工日期</span>
+                </div>
+                <span>{{detailsData.b_timeComplete}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>调度员</span>
+                </div>
+                <span>{{detailsData.o_dispatcher}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>签单部门</span>
+                </div>
+                <span>{{detailsData.o_departName}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>日期</span>
+                </div>
+                <span>{{detailsData.o_dateOrder}}</span>
+            </ion-item>
+
+        </ion-list>
+    </ion-content>
+</ion-modal-view>

@@ -1,0 +1,62 @@
+﻿<ion-modal-view ng-controller="proRzStockCtrl">
+  <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+    <button class="button button-clear " ng-click="closePageModel()"><i class="icon ion-ios-arrow-left"></i></button>
+    <h1 class="title">染整库存查询</h1>
+    <button class="button button-clear" ng-click="openSearch()"><i class="icon ion-ios-search"></i></button>
+  </ion-header-bar>
+  <div class="bar bar-subheader lr-subheader">
+      <div class="lr-left-tool">
+          <div class="lr-down-select"><span>全部</span><span class="num">{{data.records}}条</span><span><i class="icon ion-ios-arrow-down"></i></span></div>
+      </div>
+      <div class="lr-right-tool">
+          <button class="button button-clear"><i class="icon iconfont">&#xe6f5;</i></button>
+          <button class="button button-clear"><i class="icon iconfont">&#xe654;</i></button>
+      </div>
+  </div>
+  <ion-content delegate-handle="businesslist-content">
+      <ion-refresher pulling-text="下拉刷新" on-refresh="doRefresh()"></ion-refresher>
+      <div class="list  list-inset lr-list-type2" style="margin-top:40px;">
+          <ion-list>
+              <ion-item ng-repeat="sample in data.businesss" class="item-remove-animate mt10" ng-click="openDetailsModal(sample.b_num)">
+                 
+                  <div class="row">
+                      <div class="col-99 lr-item-content"><span>客户名称：{{sample.o_custName}}</span></div>
+                  </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>业务区域：{{sample.c_region}}</span></div>
+                      <div class="col-50 lr-item-content"><span>等级：{{sample.p_grade}}</span></div>
+
+                  </div>
+                  <div class="row">                     
+                      <div class="col-50 lr-item-content"><span>产品编码：{{sample.p_code}}</span> </div>
+                      <div class="col-50 lr-item-content"><span>产品名称：{{sample.p_name}}</span></div>
+                   </div>
+                 
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>批次：{{sample.b_num}}</span></div>
+                      <div class="col-50 lr-item-content"><span>支数：{{sample.p_zhishu}}</span></div>
+
+                   </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>品号：{{sample.b_pinhao}}</span></div>
+                      <div class="col-50 lr-item-content"><span>颜色：{{sample.p_color}}</span></div>
+                     </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>当前库存：{{sample.p_count}}</span></div>
+                      <div class="col-50 lr-item-content"><span>单位：{{sample.p_unit}}</span></div>
+                    
+                   </div>
+                  <div class="row">
+                      <div class="col-50 lr-item-content"><span>入库日期：{{sample.p_dateLastIn}}</span></div>
+                      <div class="col-50 lr-item-content"><span>业务部门：{{sample.o_departName}}</span></div>
+                  </div>
+                  <div class="row"><!-- 积压说明-->
+                      <div class="col-99 lr-item-content"><span>{{sample.p_overstockDes}}</span></div>
+                  </div>
+              </ion-item>
+          </ion-list>
+      </div>
+      <ion-infinite-scroll ng-if="data.moredata" on-infinite="doLoadMore()" distance="1%"></ion-infinite-scroll>
+  </ion-content>
+
+</ion-modal-view>

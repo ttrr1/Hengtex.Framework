@@ -1,0 +1,86 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.csprojResolveAssemblyReference.cache
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.csprojResolveAssemblyReference.cache
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.Redis.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\Hengtex.Cache.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.csprojResolveAssemblyReference.cache
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Cache\Hengtex.Cache.Redis\obj\Debug\Hengtex.Cache.Redis.pdb

@@ -1,0 +1,114 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <button class="button button-clear " ng-click="closeDetailsModal()"><i class="icon ion-ios-arrow-left"></i></button>
+        <h1 class="title">发货单详情</h1>
+        <div class="buttons">
+            <button class="button button-clear" ng-click="openEditModal(detailsData)"><i class="icon ion-ios-compose-outline"></i></button>
+        </div>
+    </ion-header-bar>
+    <ion-content delegate-handle="businessDetailHandle">
+        <ion-list>
+           
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>是否样品</span>
+                </div>
+                <span><input type="checkbox" ng-model="smaple.pd_flagSample" /></span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>日期</span>
+                </div>
+                <span>{{smaple.pd_date}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>单据号</span>
+                </div>
+                <span>{{detailsData.pd_num}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>产品名称</span>
+                </div>
+                <span>{{detailsData.pdd_name}}</span>
+            </ion-item>
+           
+           
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>支数</span>
+                </div>
+                <span >{{detailsData.pdd_zhishu}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>批次</span>
+                </div>
+                <span class="lr-label royal-bg">{{detailsData.pdd_batch}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>品号</span>
+                </div>
+                <span >{{detailsData.pdd_spec}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>颜色</span>
+                </div>
+                <span>{{detailsData.pdd_color}}</span>
+            </ion-item>
+            
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>数量</span>
+                </div>
+                <span>{{detailsData.pdd_count}}</span>
+            </ion-item>
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>单价</span>
+                </div>
+                <span>{{detailsData.pdd_unitPrice}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>金额</span>
+                </div>
+                <span>{{detailsData.pdd_amount}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>单位</span>
+                </div>
+                <span>{{detailsData.pdd_unit}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>业务部门</span>
+                </div>
+                <span>{{detailsData.pd_departName}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>客户名称</span>
+                </div>
+                <span>{{detailsData.pd_custName}}</span>
+            </ion-item>
+
+            <ion-item class="lr-details-item">
+                <div class="lr-item-htitle">
+                    <span>客户区域</span>
+                </div>
+                <span>{{detailsData.pd_custArea}}</span>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-modal-view>

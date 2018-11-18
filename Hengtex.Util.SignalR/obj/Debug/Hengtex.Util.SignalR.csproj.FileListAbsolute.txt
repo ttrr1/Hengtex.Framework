@@ -1,0 +1,80 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.xml
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.pdb
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.csprojResolveAssemblyReference.cache
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.dll
+F:\ht\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.xml
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.pdb
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.csprojResolveAssemblyReference.cache
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.dll
+D:\app1\MyApp\Hengtex.Framework V1.0\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.SignalR.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Newtonsoft.Json.xml
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\bin\Debug\Hengtex.Util.Extension.pdb
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.csprojResolveAssemblyReference.cache
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.dll
+F:\纺园项目\TTRR-Hengtex.Framework-bg\Hengtex.Framework\Hengtex.Util.SignalR\obj\Debug\Hengtex.Util.SignalR.pdb

@@ -1,0 +1,39 @@
+﻿<ion-modal-view>
+  <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+      <button class="button button-clear" ng-click="closeAnnouncesModal()"><i class="icon ion-ios-arrow-left"></i></button>
+    <h1 class="title">公告详情</h1>
+  </ion-header-bar>
+    <ion-content>
+        <ion-list>
+            <ion-item class="item lr-item">
+                <div class="row">
+                    <div class="col-20 balanced">日期</div>
+                    <div class="col-66">{{detailsData.releaseTime | date:'yyyy-MM-dd HH:mm:ss'}}</div>
+                </div>
+            </ion-item>
+            <ion-item class="item lr-item">
+                <div class="row">
+                    <div class="col-20"><b>类别</b></div>
+                    <div class="col-33">{{detailsData.category}}</div>
+                </div>
+            </ion-item>
+            <ion-item class="item lr-item">
+                <div class="row">
+                    <div class="col-20"><b>标题</b></div>
+                    <div class="col-33">{{detailsData.fullHead}}</div>
+                </div>
+            </ion-item>
+            <ion-item class="item lr-item">
+                <div class="row">
+                    <div class="col-33"><b>内容</b></div>
+                </div>
+                
+                <div class="row lr-item-row item-text-wrap">
+                    <div style="text-indent: 1.9em; word-break:normal;" ng-bind-html="detailsData.newsContent">
+
+                    </div>
+                </div>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-modal-view>

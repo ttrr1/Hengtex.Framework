@@ -1,0 +1,64 @@
+﻿<ion-modal-view>
+    <ion-header-bar class="bar-stable nav-bar-block nav-title-slide-ios7">
+        <div class="item-input-inset" style="width:100%;">
+           
+           
+
+            <div class="row">
+                <div class="col-33 lr-item-content" style="border-right:1px solid black">
+                    <label class="item-input-wrapper" ng-click="openSourceSelectModal()">
+                        <input type="search" ng-model="searchBgBatchData.condation" placeholder="请选择">
+                    </label>
+                </div>
+                <div class="col-33 lr-item-content">
+
+                    <label class="item-input-wrapper">
+                        <i class="icon ion-ios-search placeholder-icon"></i>
+                        <input type="search" ng-model="searchBgBatchData.keyword" placeholder="搜索">
+                    </label>
+
+                </div>
+                <div class="col-33 lr-item-content">
+
+                    <button class="button button-clear" ng-click="doBgBatchSearch()">
+                        搜索
+                    </button>
+                    <button class="button button-clear" ng-click="closeBgBatchSearchModal()">
+                        确认
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </ion-header-bar>
+    <ion-content>
+        <div class="lr-searchTitle" ng-hide="searchBgBatchData.records == 0 "><span>搜索结果 {{searchBgBatchData.records}} 条</span></div>
+        <div class="list  list-inset lr-list-type2" style="margin-top:0px;">
+           
+
+            <ion-radio ng-repeat="sample in searchBgBatchData.BgBatchs" ng-click="setEditDataBatch(sample)"
+                       class="item-icon-right">
+
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>批号：{{sample.b_num}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>颜色：{{sample.b_color}}</span> </div>
+                </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>品号：{{sample.b_pinhao}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>老品号：{{sample.b_pinming}}</span> </div>
+                </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>属性码：{{sample.b_attr}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>支数：{{sample.b_zhishu}}</span> </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-50 lr-item-content"><span>数量：{{sample.b_count}}</span> </div>
+                    <div class="col-50 lr-item-content"><span>交期：{{sample.b_dateDelivery}}</span> </div>
+
+                </div>
+            </ion-radio>
+        </div>
+        <ion-infinite-scroll ng-if="searchBgBatchData.moredata" on-infinite="loadMoreBgBatchSearch()" distance="1%"></ion-infinite-scroll>
+    </ion-content>
+</ion-modal-view>

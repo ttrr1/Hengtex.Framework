@@ -1,0 +1,68 @@
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.dll.config
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Dapper.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\MySql.Data.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\SQLinq.Dapper.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\SQLinq.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Oracle.DataAccess.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\System.Data.SQLite.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Dapper.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\System.Data.SQLite.xml
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.csprojResolveAssemblyReference.cache
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.dll
+E:\hengtex\code\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.dll.config
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Dapper.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\MySql.Data.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\SQLinq.Dapper.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\SQLinq.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Newtonsoft.Json.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.Extension.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Oracle.DataAccess.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\System.Data.SQLite.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Dapper.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Newtonsoft.Json.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.Extension.pdb
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\System.Data.SQLite.xml
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.csprojResolveAssemblyReference.cache
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.dll
+F:\yun\Hengtex.Framework V1.0\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.dll.config
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.Dapper.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Dapper.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\MySql.Data.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\SQLinq.Dapper.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\SQLinq.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Newtonsoft.Json.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.Extension.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Oracle.DataAccess.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\System.Data.SQLite.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Data.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Dapper.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Newtonsoft.Json.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\Hengtex.Util.Extension.pdb
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\bin\Debug\System.Data.SQLite.xml
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.csprojAssemblyReference.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.csproj.CoreCompileInputs.cache
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.csproj.CopyComplete
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.dll
+E:\hengtex\hengtexV1.0\Hengtex.Framework\Hengtex.Data\Hengtex.Data.Dapper\obj\Debug\Hengtex.Data.Dapper.pdb
